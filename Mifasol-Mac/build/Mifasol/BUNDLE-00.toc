@@ -1,0 +1,1 @@
+([('Mifasol', '/Users/mathis/Developer/Mifasol/dist/Mifasol', 'EXECUTABLE')],)
